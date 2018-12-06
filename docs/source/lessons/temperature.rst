@@ -1,6 +1,6 @@
 
-temperature blocks lesson
-=========================
+Lesson 10 temperature blocks lesson
+======================================
 
 measure the temperature on the @boardname@.
 

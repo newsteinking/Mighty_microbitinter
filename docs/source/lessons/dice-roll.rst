@@ -1,6 +1,6 @@
 
-dice roll lesson
-================
+Lesson 7 dice roll lesson
+===========================
 
 Create a  dice on the @boardname@.
 

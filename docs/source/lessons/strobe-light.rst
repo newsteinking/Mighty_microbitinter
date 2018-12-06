@@ -1,6 +1,6 @@
 
-strobe light lesson
-===================
+Lesson 9 strobe light lesson
+=============================
 
 Learn how to create a blinking LED script.
 

@@ -1,6 +1,6 @@
 
-spinner lesson
-==============
+Lesson 6 spinner lesson
+============================
 
 a spin the @boardname@ game with the input on shake.
 

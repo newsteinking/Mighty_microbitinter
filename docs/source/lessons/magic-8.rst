@@ -1,6 +1,6 @@
 
-magic 8 lesson
-==============
+Lesson 1 magic 8 lesson
+==========================
 
 a fortune teller game with the @boardname@.
 

@@ -1,6 +1,6 @@
 
-rotation animation block lesson
-===============================
+Lesson 12 rotation animation block lesson
+============================================
 
 Learn how to create images with a global variable and while loop.
 

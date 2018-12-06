@@ -1,6 +1,6 @@
 
-looper blocks lesson
-====================
+Lesson 8 looper blocks lesson
+=================================
 
 Learn to control blinking LEDs.
 

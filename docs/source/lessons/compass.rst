@@ -1,6 +1,6 @@
 
-compass lesson
-==============
+Lesson 13 compass lesson
+===========================
 
 Create a compass on the @boardname@.
 

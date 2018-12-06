@@ -1,6 +1,6 @@
 
-truth or dare lesson
-====================
+Lesson 5 truth or dare lesson
+===============================
 
 create a love meter with the @boardname@.
 

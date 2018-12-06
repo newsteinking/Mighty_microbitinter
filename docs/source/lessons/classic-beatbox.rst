@@ -1,6 +1,6 @@
 
-classic beatbox
-===============
+Lesson 16 classic beatbox
+===========================
 
 display beautiful images on the @boardname@.
 

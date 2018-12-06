@@ -1,6 +1,6 @@
 
-digi yoyo lesson
-================
+Lesson 11 digi yoyo lesson
+==============================
 
 Create a counter with a while loop.
 

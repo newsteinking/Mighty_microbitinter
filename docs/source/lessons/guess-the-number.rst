@@ -1,6 +1,6 @@
 
-guess the number lesson
-=======================
+Lesson 2 guess the number lesson
+===================================
 
 Learn to create a random number with input from button A.
 

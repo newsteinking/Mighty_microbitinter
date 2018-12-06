@@ -1,6 +1,6 @@
 
-glowing pendulum blocks lesson
-==============================
+Lesson 15 glowing pendulum blocks lesson
+============================================
 
 construct a pendulum that glows using acceleration.
 

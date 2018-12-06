@@ -1,6 +1,6 @@
 
-love meter blocks lesson
-========================
+Lesson 4 love meter blocks lesson
+===================================
 
 Create a love meter with the @boardname@.
 

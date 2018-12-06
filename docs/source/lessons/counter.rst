@@ -1,6 +1,6 @@
 
-Counter lesson
-==============
+Lesson 3 Counter lesson
+=========================
 
 Learn how to create a counter with with **on button** pressed.
 

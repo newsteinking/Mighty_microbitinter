@@ -1,6 +1,6 @@
 
-zoomer blocks lesson
-====================
+Lesson 14 zoomer blocks lesson
+================================
 
 measure the acceleration on the @boardname@ in the "z" direction.
 
